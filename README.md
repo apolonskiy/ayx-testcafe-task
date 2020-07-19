@@ -1,3 +1,5 @@
+Task is located in `alteryxTest.integration.js` file
+
 For launch TestCafe tests: 
 
 1. Install yarn
